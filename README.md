@@ -35,7 +35,7 @@ Do a mvn clean install from the base directory
 If youre on editor right click the ProductManagerApplication.java file and click run.
 
 # Accessing this application
-Open chrome browser and [open this link](localhost:8080)
+Open chrome browser and [open this link](http://localhost:8080/)
 
 You will see the login page with google link <br/>
 
@@ -48,4 +48,3 @@ Once logged in you will be able to access the application to add or remove produ
 
 # Contribute
 # Implementation Reference url
-
